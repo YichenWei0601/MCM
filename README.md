@@ -8,4 +8,4 @@ This file is for our presentation.
 
 This is our 2025 project for MCM contest. 
 
-Final paper, Code, Dataset, and Problem description is included.
+Final paper, Code, Dataset, and Problem description is included. Mainly from me. The others have not been collected.
